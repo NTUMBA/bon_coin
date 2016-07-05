@@ -25,3 +25,11 @@ header ul li{
   font-weight: bold;
   font-size: 30px;
 }
+/*main starts================================================================================*/
+.main-top{
+  width:30%;
+  float: left;
+}
+span{
+  color: #F56B2A;
+}
