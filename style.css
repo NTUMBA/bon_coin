@@ -76,3 +76,35 @@ background-color: inherit;
 }
 
 /*group End ========================================================================*/
+
+
+
+===================================Pseudo-class selector=======================================================*/
+header a:hover{
+    text-decoration: underline;
+}
+header a{
+  color: white;
+}
+a:active{
+  text-decoration: underline;
+}
+.group a:hover{
+  color: #F56B2A;
+}
+.group .announce a{
+  color:white;
+}
+a:link{
+  text-decoration: none;
+}
+.group .main-top .announce a:hover{
+  background-color: skyblue;
+  color:white;
+}
+.group .main-top .reach a:hover{
+  background-color: lavender;
+  color:blue;
+}
+
+/*========
