@@ -33,3 +33,18 @@ header ul li{
 span{
   color: #F56B2A;
 }
+
+
+
+    /*group starts======================================================================*/
+.group .main-top .announce {
+  background-color: blue;
+  font-weight: bold;
+  margin-top: 7%;
+  margin-bottom: 4%;
+  padding: 1px 50px;
+  width: 93%;
+  height: .5%;
+  border-radius: 5px;
+}
+/*group End ========================================================================*/
