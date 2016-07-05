@@ -6,3 +6,18 @@ background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAM
 background-repeat: no-repeat;
 background-position: bottom;
 }
+header{
+  background-color: #F56B2A;
+  height: 60px;
+  font-size: 20px;
+}
+header ul li{
+  color:white;
+  margin-bottom: 20px;
+  margin-top: 0;
+  margin-left: 0;
+  padding: 8px 2px 5px 3px;
+  display: inline-block;
+  list-style-type: none;
+/*padding: top=bottom####################left=right##################*/
+}
