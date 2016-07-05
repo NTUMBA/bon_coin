@@ -47,4 +47,12 @@ span{
   height: .5%;
   border-radius: 5px;
 }
+.group .main-top .reach{
+  border: 1px solid blue;
+  border-radius: 5px;
+  color: blue;
+  padding: 1px 50px;
+  width: 93%;
+  height: .5%;
+}
 /*group End ========================================================================*/
