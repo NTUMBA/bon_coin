@@ -55,4 +55,11 @@ span{
   width: 93%;
   height: .5%;
 }
+.reach{
+background-color: inherit;
+}
+.map{
+  margin-left: 20%;
+  margin-top: 10%;
+}
 /*group End ========================================================================*/
