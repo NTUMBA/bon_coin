@@ -21,3 +21,7 @@ header ul li{
   list-style-type: none;
 /*padding: top=bottom####################left=right##################*/
 }
+#log{
+  font-weight: bold;
+  font-size: 30px;
+}
